@@ -1,0 +1,11 @@
+# Node / Bun
+frontend/node_modules
+frontend/dist
+frontend/bun.lockb
+
+# Rust
+backend/target
+
+# General
+.env
+.DS_Store
